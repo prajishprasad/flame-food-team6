@@ -21,6 +21,10 @@ cafes = {
         {"name": "Pasta", "price": "Rs. 110"},
         {"name": "Salad", "price": "Rs. 100"},
     ],
+    "Cafe One": ["Coffee", "Sandwich", "Muffin"],
+    "Cafe Two": ["Tea", "Burger", "Fries"],
+    "Cafe Three": ["Pizza", "Pasta", "Salad"],
+    "Cafe Four": ["Idli", "Dosa", "Filter Coffee"]
 }
 
 @app.route("/")
